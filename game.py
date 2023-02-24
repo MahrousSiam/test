@@ -16,10 +16,10 @@ def check_guess(guess, answer):
     
 score = 0
 print("Guess the Animal")
-guess1 = input("Which bear lives at the North Pole? ")
-check_guess(guess1, "polar bear")
-guess2 = input("Which is the fastest land animal? ")
-check_guess(guess2, "Cheetah")
-guess3 = input("Which is the larget animal? ")
-check_guess(guess3, "Blue Whale")
+guess1 = input("Which goalkeeper is the best in world? ")
+check_guess(guess1, "El Shenawy")
+guess2 = input("Which is the fastest player in the world? ")
+check_guess(guess2, "Ma3lol")
+guess3 = input("what's the best team in Egypt? ")
+check_guess(guess3, "El Ahly")
 print("Your Score is "+ str(score))
