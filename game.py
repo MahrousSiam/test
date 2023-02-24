@@ -15,7 +15,7 @@ def check_guess(guess, answer):
         print("The Correct answer is ",answer )
     
 score = 0
-print("Guess the Animal")
+print("Guess the Answer")
 guess1 = input("Which goalkeeper is the best in world? ")
 check_guess(guess1, "El Shenawy")
 guess2 = input("Which is the fastest player in the world? ")
